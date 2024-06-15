@@ -1,0 +1,1 @@
+Hello world! This is a blog about the programming techniques, that I learned. 
